@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+
+
 public class FirstPageActivity extends Activity {
 
 	@Override
@@ -17,6 +19,8 @@ public class FirstPageActivity extends Activity {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.first_page, menu);
 		return true;
+		
 	}
 
 }
+
